@@ -1,0 +1,80 @@
+[
+    {
+        "id": 1,
+        "name": "Romeo and Juliet",
+        "author": "William Shakespeare",
+        "image": "/bookImage/1.png",
+        "review": "A timeless tragedy of young love, Romeo and Juliet tells the story of two star-crossed lovers whose families' feuds lead to their untimely demise.",
+        "totalPages": 320,
+        "rating": 4.7,
+        "category": "Tragedy",
+        "tags": ["Love", "Feuds", "Fate"],
+        "publisher": "Shakespeare Publishing",
+        "yearOfPublishing": 1597
+    },
+    {
+        "id": 2,
+        "name": "Hamlet",
+        "author": "William Shakespeare",
+        "image": "/bookImage/2.png",
+        "review": "One of Shakespeare's most famous plays, Hamlet explores themes of revenge, madness, and the complexities of the human condition.",
+        "totalPages": 368,
+        "rating": 4.8,
+        "category": "Tragedy",
+        "tags": ["Revenge", "Madness", "Existentialism"],
+        "publisher": "Shakespeare Publishing",
+        "yearOfPublishing": 1603
+    },
+    {
+        "id": 3,
+        "name": "Macbeth",
+        "author": "William Shakespeare",
+        "image": "/bookImage/3.png",
+        "review": "A dark and powerful tragedy, Macbeth follows the ambitious rise and tragic fall of a Scottish general consumed by his lust for power.",
+        "totalPages": 448,
+        "rating": 4.9,
+        "category": "Tragedy",
+        "tags": ["Ambition", "Guilt", "Witches"],
+        "publisher": "Shakespeare Publishing",
+        "yearOfPublishing": 1606
+    },
+    {
+        "id": 4,
+        "name": "A Midsummer Night's Dream",
+        "author": "William Shakespeare",
+        "image": "/bookImage/4.png",
+        "review": "A whimsical comedy set in an enchanted forest, A Midsummer Night's Dream weaves together the stories of lovers, fairies, and amateur actors.",
+        "totalPages": 640,
+        "rating": 4.9,
+        "category": "Comedy",
+        "tags": ["Love", "Magic", "Misunderstandings"],
+        "publisher": "Shakespeare Publishing",
+        "yearOfPublishing": 1595
+    },
+    {
+        "id": 5,
+        "name": "The Tempest",
+        "author": "William Shakespeare",
+        "image": "/bookImage/5.png",
+        "review": "A tale of shipwrecks, sorcery, and redemption, The Tempest explores themes of forgiveness and the power of art.",
+        "totalPages": 896,
+        "rating": 4.8,
+        "category": "Romance",
+        "tags": ["Island", "Magic", "Freedom"],
+        "publisher": "Shakespeare Publishing",
+        "yearOfPublishing": 1611
+    },
+    {
+        "id": 6,
+        "name": "Othello",
+        "author": "William Shakespeare",
+        "image": "/bookImage/6.png",
+        "review": "Othello is a tragedy that explores themes of jealousy, race, and manipulation, showcasing the destructive power of suspicion.",
+        "totalPages": 608,
+        "rating": 4.9,
+        "category": "Tragedy",
+        "tags": ["Jealousy", "Deception", "Betrayal"],
+        "publisher": "Shakespeare Publishing",
+        "yearOfPublishing": 1604
+    }
+]
